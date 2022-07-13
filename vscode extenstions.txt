@@ -1,0 +1,15 @@
+brackets for vscode
+es 7 react/redux
+eslint
+es6
+perttier
+
+press ctrl+shift+p and type json and select "preferences open settings" and add the following lines:
+  "javascript.format.enable": false,
+  "prettier.singleQuote": true,
+  "editor.formatOnSave": true,
+
+to use material ui in react v18 use following
+npm install @mui/material @emotion/react @emotion/styled --legacy-peer-deps
+npm install @mui/icons-material --legacy-peer-deps
+npm i @mui/styles --legacy-peer-deps
